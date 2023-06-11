@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/EduCare/static/css/main.e2389ae3.css",
+    "main.js": "/EduCare/static/js/main.36b2acf7.js",
+    "static/js/787.64fb4981.chunk.js": "/EduCare/static/js/787.64fb4981.chunk.js",
+    "static/media/edu4.jpg": "/EduCare/static/media/edu4.0acaeec6d60e4dd1b623.jpg",
+    "static/media/python.jpg": "/EduCare/static/media/python.8c7d21eae2dea6976354.jpg",
+    "static/media/java.jpg": "/EduCare/static/media/java.04e4b370b195d2add09d.jpg",
+    "static/media/c.jpg": "/EduCare/static/media/c.5f1d4c06371ab9e1f946.jpg",
+    "index.html": "/EduCare/index.html",
+    "main.e2389ae3.css.map": "/EduCare/static/css/main.e2389ae3.css.map",
+    "main.36b2acf7.js.map": "/EduCare/static/js/main.36b2acf7.js.map",
+    "787.64fb4981.chunk.js.map": "/EduCare/static/js/787.64fb4981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2389ae3.css",
+    "static/js/main.36b2acf7.js"
+  ]
+}
