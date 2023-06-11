@@ -2,7 +2,7 @@
   "name": "educare",
   "homepage": "http://chavanraj9693.github.io/EduCare",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@emotion/react": "^11.7.0",
     "@emotion/styled": "^11.7.0",
